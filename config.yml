@@ -1,1 +1,4 @@
 permalink: /404.html
+url: "https://discordbotlisting.github.io" 
+plugins:
+  - jekyll-sitemap
